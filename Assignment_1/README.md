@@ -13,7 +13,7 @@ Small Java 21 Maven project that demonstrates the producer-consumer pattern usin
 - Java 21
 - Maven 3.9+ (or compatible)
 
-## Setup and run
+## Setup and run                                                                                                                                       
 1) Clone/download the project and open it in your IDE or terminal.  
 2) Ensure `JAVA_HOME` points to Java 21 and `mvn -v` works.  
 3) Run tests: `mvn test`  

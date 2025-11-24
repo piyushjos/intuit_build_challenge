@@ -13,6 +13,8 @@ Analyze the provided classic cars sales dataset and print summary stats to the c
 This project uses Python’s built-in `unittest` framework.
 
 Run all tests:
+python -m unittest discover -s tests
+
 
 
 
