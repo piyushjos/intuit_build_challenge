@@ -8,9 +8,13 @@ Analyze the provided classic cars sales dataset and print summary stats to the c
   `python3 main.py`
 - The script automatically reads `data/sales_data_sample.csv` and prints all results.
 
-## Run tests
-- Optional (requires pytest): `pip install pytest`
-- Then run: `python3 -m pytest -q`
+## Running Tests
+
+This project uses Python’s built-in `unittest` framework.
+
+Run all tests:
+
+
 
 ## Sample output
 Running `python3 main.py` prints all analyses:

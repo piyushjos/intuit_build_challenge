@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Dependency / build outputs
+*.egg-info/
+dist/
+build/
+
+# Coverage / test artifacts
+.coverage*
+coverage.xml
+htmlcov/
+*.cover
+*.py,cover
+
+# Editor and OS noise
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local environment vars
+.env
+.env.*
+*.env
