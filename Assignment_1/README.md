@@ -1,6 +1,6 @@
 # Assignment 1 - Producer/Consumer Demo
 
-Small Java 21 Maven project that demonstrates the producer-consumer pattern using a hand-rolled blocking queue. This section covers Assignment 1; a placeholder for later assignments is included below.
+Small Java 21 Maven project that demonstrates the producer-consumer pattern using a hand-rolled blocking queue. This section covers Assignment 1
 
 ## Code tour
 - `src/main/java/BlockingQueue.java` - minimal synchronized queue built with wait/notify and a fixed capacity.
